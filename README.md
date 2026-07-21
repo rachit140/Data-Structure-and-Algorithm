@@ -50,8 +50,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
