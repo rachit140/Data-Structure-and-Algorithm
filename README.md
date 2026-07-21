@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
