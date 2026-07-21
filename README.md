@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
 ## Divide and Conquer
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -45,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
