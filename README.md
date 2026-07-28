@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -66,5 +67,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
