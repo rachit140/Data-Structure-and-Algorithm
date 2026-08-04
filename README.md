@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
 ## Bit Manipulation
 |  |
@@ -81,10 +82,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
