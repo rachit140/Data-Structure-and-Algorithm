@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
