@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
