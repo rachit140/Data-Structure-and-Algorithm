@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
