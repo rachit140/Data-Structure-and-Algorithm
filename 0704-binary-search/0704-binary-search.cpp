@@ -1,13 +1,11 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int l = 0, h = nums.size() - 1;
+        int l = 0;
+        int h = nums.size() - 1;
         while (l <= h) {
-            int mid = l + (h - l) / 2;  // safer midpoint
-            if (nums[mid] == target) {
+            int mid = (l + h) / 2;
+            if (target == nums[mid]) {
                 return mid;
             } else if (nums[mid] > target) {
                 h = mid - 1;
@@ -15,6 +13,6 @@ public:
                 l = mid + 1;
             }
         }
-        return -1;  
+        return -1;
     }
 };
