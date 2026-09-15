@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
