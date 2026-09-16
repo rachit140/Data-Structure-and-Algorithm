@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
