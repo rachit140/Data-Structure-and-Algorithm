@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
