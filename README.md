@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1002-find-common-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
