@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
@@ -166,5 +168,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rachit140/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
